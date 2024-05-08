@@ -2,7 +2,7 @@
 
 ### ILAN ⟡ LLXNA
 
-🌌 Exploring and mastering full-stack development to offer new experiences.
+🌌 Exploring and mastering full-stack development to bring new experiences.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" style="width:24px;" align="left" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width:24px;" align="left" />
