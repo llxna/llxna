@@ -1,6 +1,6 @@
-### ILAN | LLXNA
+### ILAN ⟡ LLXNA
 
-- 🌌 Exploring and mastering full-stack development to offer new experiences.
+🌌 Exploring and mastering full-stack development to offer new experiences.
 
 <!--
 **llxna/llxna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
