@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 
-### <p align=center>ILAN ⟡ LXNA</p>
+### <p align=center>ILAN ⟡ LINA</p>
 
 <div align=center>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" style="width:24px;" />
